@@ -1,0 +1,39 @@
+h1 {
+  color: gold;
+}
+
+.food-list {
+  background-color: blue;
+}
+
+/* .pantry {
+  background-color: rgba(55, 255, 255, 0.674);
+} */
+
+/* .freezer {
+  background-color: rgba(55, 255, 255, 0.674);
+} */
+
+h2 {
+  color: rgb(17, 23, 212);
+  display: block;
+  border: solid 3px rgb(179, 80, 255);
+  width: 600px;
+  height: 50px;
+  text-align: center;
+  padding-top: 15px;
+  background-color: rgb(230, 243, 255);
+}
+
+img {
+  height: 200px;
+  width: 200px;
+  padding: 10px;
+}
+
+/* display: inline-block;
+border: solid 1px;
+background-color: rgba(55, 255, 255, 0.674);
+width: 25%;
+padding: 10px;
+margin: 10px; */
