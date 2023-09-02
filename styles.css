@@ -1,9 +1,11 @@
-h1 {
-  color: gold;
-}
-
 .food-list {
-  background-color: blue;
+  display: inline-block;
+  border: solid 1px;
+  background-color: rgba(55, 255, 255, 0.674);
+  width: 25%;
+  padding: 10px;
+  margin: 10px;
+  vertical-align: middle;
 }
 
 /* .pantry {
@@ -26,9 +28,11 @@ h2 {
 }
 
 img {
+  display: inline-block;
   height: 200px;
   width: 200px;
   padding: 10px;
+  vertical-align: middle;
 }
 
 /* display: inline-block;
